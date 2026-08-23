@@ -16,7 +16,7 @@ region: sapphirium-rhombus
 category: crafting
 consumes: {
 power: 0.4
-liquid: cryofluid/0. 
+liquid: cryofluid/0.2
 }
 requirements: [
     dense-alloy/30
